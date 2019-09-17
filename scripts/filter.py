@@ -6,7 +6,7 @@ l = []
 c = 0
 for i in range(len(data1)):
     if(not data1["info"][i] in notneeded["info"]):
-        l.append(list(data1.iloc[[i]]))
+        l.append(list(data1.iloc[i]))
         c += 1
 print("No required objects",c)
 df = pd.DataFrame(l)
