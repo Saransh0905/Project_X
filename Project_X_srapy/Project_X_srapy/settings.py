@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for Project_X_scrapy project
+# Scrapy settings for Project_X_srapy project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,15 +9,15 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'Project_X_scrapy'
+BOT_NAME = 'Project_X_srapy'
 
-SPIDER_MODULES = ['Project_X_scrapy.spiders']
-NEWSPIDER_MODULE = 'Project_X_scrapy.spiders'
+SPIDER_MODULES = ['Project_X_srapy.spiders']
+NEWSPIDER_MODULE = 'Project_X_srapy.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'Project_X_scrapy (+http://www.yourdomain.com)'
-USER_AGENT = 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36'
+#USER_AGENT = 'Project_X_srapy (+http://www.yourdomain.com)'
+
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
@@ -47,13 +47,13 @@ ROBOTSTXT_OBEY = True
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'Project_X_scrapy.middlewares.ProjectXScrapySpiderMiddleware': 543,
+#    'Project_X_srapy.middlewares.ProjectXSrapySpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'Project_X_scrapy.middlewares.ProjectXScrapyDownloaderMiddleware': 543,
+#    'Project_X_srapy.middlewares.ProjectXSrapyDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -65,7 +65,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'Project_X_scrapy.pipelines.ProjectXScrapyPipeline': 300,
+#    'Project_X_srapy.pipelines.ProjectXSrapyPipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
