@@ -11,4 +11,4 @@ for i in range(len(data1)):
 print("No required objects",c)
 df = pd.DataFrame(l)
 df.columns = ["name","url","PresentInTSP","info"]
-df.to_csv("/home/dark_matter/MAIN/Projects/Project_X/Project_X/organisedData/filteredData.csv")
+df.to_csv("/home/dark_matter/MAIN/Projects/Project_X/Project_X/organisedData/filteredData.csv",index=False)
