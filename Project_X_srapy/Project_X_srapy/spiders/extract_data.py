@@ -1,23 +1,24 @@
 import scrapy 
+global l
+l = []
+with open ("/home/saransh/Documents/Project_X/Project_X/organisedData/d.csv","r") as data:
+    
+    for line in data:
+        array = line.split(',')
+        l.append(array[1])
+    print(l[5])
 class Protease(scrapy.Spider):
+    global l
     name = 'Protease'
-    start_urls = [
-        'https://www.uniprot.org/uniprot/Q3Y6B8https://www.uniprot.org/uniprot/?query=taenia+solium+protease&sort=score'
-    ]
+    start_urls = [l[5]]
+    
 
     def parse(self,response):
-         self.entry_list = response.xpath('//*[contains(concat( " ", @class, " " ), concat( " ", "entryID", " " ))]//a/@href')[1].extract()
-         new_url = 'https://www.uniprot.org' + 
-         yield {
-            'entry': self.entry_list
+        print(response.url)
+        GO_MF = response.xpath('//*[contains(concat( " ", @class, " " ), concat( " ", "molecular_function", " " ))]//a[not(ancestor-or-self::div[@typeof="ScholarlyArticle"])]/text()').extract()
+        K_MF = response.xpath("//*[(@id = 'function')]//tr[(((count(preceding-sibling::*) + 1) = 1) and parent::*)]//a[not(ancestor::span[@class='evidenceContainer'])]/text()").extract()
+        combined = GO_MF + K_MF
+        yield {
+            'entry': combined
         }        
-
-
-    '''def parse2(self,response):
-         title = response.css('title::text').extract()
-         GO_MF = response.css(".molecular_function a::text").extract()
-         #entry_list = response.xpath('//*[contains(concat( " ", @class, " " ), concat( " ", "entryID", " " ))]//a/@href').extract()
-         yield {
-         'title': title,
-         'GO_MF':GO_MF
-         }'''
+    
