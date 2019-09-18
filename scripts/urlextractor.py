@@ -16,7 +16,7 @@ with open("./data/uniprot-taenia+solium+protease.fasta",'r') as f:
                     j += 1
                 else:
                     break
-            objects.append([url,"https://www.uniport.org/uniport/"+url,False,s])
+            objects.append([url,"https://www.uniprot.org/uniprot/"+url,False,s])
             i = j        
             
 df = pd.DataFrame(objects)
