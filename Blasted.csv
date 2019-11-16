@@ -1,0 +1,263 @@
+query acc.ver,subject acc.ver,% identity,evalue,NAME,type
+MER0045758,AAS00027.1,100,704,cathepsin L-like cysteine proteinase [Taenia solium],pork tapeworm
+MER0064754,Q3Y6B8.1,100,970,CAAX prenyl protease 1 homolog,pork tapeworm
+MER0484740,ADP89566.1,100,996,trypsin-like protein [Taenia solium],pork tapeworm
+MER1164389,AQQ11627.1,100,437,"cathepsin L-like protease, partial [Taenia solium]",pork tapeworm
+MER0259427,CAD21539.1,100,394,"hypothetical protein, partial [Taenia solium]",pork tapeworm
+MER0158469,VDK40771.1,96.714,1400,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0168713,CUT99364.1,87.405,3986,glutamate synthase [Echinococcus multilocularis],Echinococcus multilocularis
+MER0147201,VDK39480.1,95,357,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0193952,VDK40523.1,100,139,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0152858,VDK22681.1,95.146,1005,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0159734,CDS36983.1,60.684,681,RNA directed DNA polymerase reverse transcriptase [Echinococcus multilocularis],Echinococcus multilocularis
+MER0193623,VDK32975.1,97.98,1219,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0187287,CDI97850.1,81.805,1077,USP6 N terminal protein [Echinococcus multilocularis],Echinococcus multilocularis
+MER0196933,VDK33345.1,92.857,852,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0107847,CDS24674.1,86.576,939,puromycin sensitive aminopeptidase [Echinococcus granulosus],Echinococcus granulosus
+MER0174369,VDK37065.1,96.419,732,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0182335,VDK20189.1,87.479,1048,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0196323,VDK47899.1,70.608,394,"unnamed protein product, partial [Taenia asiatica]",Taenia asiatica
+MER0148297,XP_024348875.1,67.442,116,Puromycin-sensitive aminopeptidase [Echinococcus granulosus],Echinococcus granulosus
+MER0159209,VDK20384.1,91.538,866,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0145783,VDK47899.1,69.551,408,"unnamed protein product, partial [Taenia asiatica]",Taenia asiatica
+MER0175958,VDK42750.1,95.801,747,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0162120,VDK20341.1,97.26,443,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0152895,VDK34351.1,99.663,612,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0187226,XP_024347918.1,74.791,962,Zinc metalloproteinase nas-29 [Echinococcus granulosus],Echinococcus granulosus
+MER0194274,VDK23390.1,95.857,1041,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0187432,VDK38560.1,94.023,1187,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0158056,XP_024347632.1,79.474,286,OTU domain-containing protein 3 [Echinococcus granulosus],Echinococcus granulosus
+MER0194050,VDK22229.1,99.448,2234,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0153050,VDK31461.1,94.895,650,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0114424,VDK36473.1,99.351,316,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0153014,CDS15924.1,74.074,1423,subfamily M12B unassigned peptidase [Echinococcus granulosus],Echinococcus granulosus
+MER0155448,VDM31972.1,81.641,875,unnamed protein product [Hydatigera taeniaeformis],Hydatigera taeniaeformis
+MER0152992,VDK38637.1,89.572,3724,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0193975,VDK35519.1,96.241,533,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0199659,VDK23134.1,91.862,2208,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0148091,CDS24623.1,81.609,157,"nardilysin, partial [Echinococcus granulosus]",Echinococcus granulosus
+MER0121657,VDM24657.1,60.8,156,unnamed protein product [Hydatigera taeniaeformis],Hydatigera taeniaeformis
+MER0145982,XP_024348875.1,91.935,245,Puromycin-sensitive aminopeptidase [Echinococcus granulosus],Echinococcus granulosus
+MER0171158,XP_024355015.1,72.51,715,Leishmanolysin-like peptidase [Echinococcus granulosus],Echinococcus granulosus
+MER0174249,VDK20852.1,82.204,2534,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156099,VDK42552.1,96.372,868,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0168150,VDK23487.1,90.291,184,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0155931,CDS42968.1,78.872,1676,disintegrin and metalloproteinase [Echinococcus multilocularis],Echinococcus multilocularis
+MER0156016,VDK20279.1,96.951,1317,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156209,VDK36384.1,85.214,434,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0152963,VDK32455.1,92.283,7093,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156060,VDK38006.1,94.764,380,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0183167,VDM31453.1,86.277,1354,unnamed protein product [Hydatigera taeniaeformis],Hydatigera taeniaeformis
+MER0193474,VDK42423.1,83.499,1348,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0152972,VDK21054.1,85.164,2444,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157944,VDK39516.1,90.97,1246,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0196509,VDK43600.1,90.262,952,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0130095,CDS16871.1,65.582,729,ubiquitin carboxyl terminal hydrolase 8 [Echinococcus granulosus],Echinococcus granulosus
+MER0159677,CDS16502.1,79.77,967,Blood coagulation inhibitor Disintegrin [Echinococcus granulosus],Echinococcus granulosus
+MER0159675,CDS16503.1,85.548,1379,adam 17 protease [Echinococcus granulosus],Echinococcus granulosus
+MER0193476,CUT99446.1,76.627,532,cathepsin L cysteine protease [Echinococcus multilocularis],Echinococcus multilocularis
+MER0157332,CDS17050.1,82.051,462,serine protease HTRA2 mitochondrial [Echinococcus granulosus],Echinococcus granulosus
+MER0140995,CDS22284.1,76,925,puromycin sensitive aminopeptidase [Echinococcus granulosus],Echinococcus granulosus
+MER0156941,VDK40563.1,92.752,5752,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0173811,CDS15734.1,79.618,738,subfamily M14A unassigned peptidase [Echinococcus granulosus],Echinococcus granulosus
+MER0148905,VDK26047.1,94.34,204,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0194204,CDI97191.1,85.056,1543,ubiquitin carboxyl terminal hydrolase 5 [Echinococcus multilocularis],Echinococcus multilocularis
+MER0174589,VDK42468.1,90.664,1032,"unnamed protein product, partial [Taenia asiatica]",Taenia asiatica
+MER0148707,VDK45808.1,88.462,234,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0194943,CDS41581.1,81.865,647,transmembrane protease serine 3 [Echinococcus multilocularis],Echinococcus multilocularis
+MER0149485,VDK24748.1,97.368,242,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0159217,VDK36562.1,97.473,551,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0193716,CDI97191.1,50.386,533,ubiquitin carboxyl terminal hydrolase 5 [Echinococcus multilocularis],Echinococcus multilocularis
+MER0135100,CDS22490.1,55.446,111,ubiquitin carboxyl terminal hydrolase 23 [Echinococcus granulosus],Echinococcus granulosus
+MER0193681,VDK41154.1,91.698,1989,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156017,VDK34427.1,86.164,1348,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157094,CDS22663.1,74.286,1152,ubiquitin carboxyl terminal hydrolase 47 [Echinococcus granulosus],Echinococcus granulosus
+MER0154558,VDK32748.1,97.647,858,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0149178,VDK39480.1,97.881,487,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0174193,VDK21974.1,95.238,1437,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0153605,VDK40118.1,88.666,1213,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0135293,VDK47505.1,90,194,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0193475,XP_024351314.1,99.038,646,26S proteasome non-ATPase regulatory subunit [Echinococcus granulosus],Echinococcus granulosus
+MER0157951,VDK32492.1,92.509,961,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0153018,CDS42751.1,80.65,3081,a disintegrin and metalloproteinase with [Echinococcus multilocularis],Echinococcus multilocularis
+MER0156279,VDM33160.1,81.664,1299,unnamed protein product [Hydatigera taeniaeformis],Hydatigera taeniaeformis
+MER0196120,VDK24379.1,92.846,1243,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0170963,VDK37047.1,96.774,1249,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157609,VDK37714.1,96.944,733,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0135994,VDK40298.1,91.796,1290,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0183519,XP_024353944.1,71.798,1112,Dipeptidyl peptidase 2 [Echinococcus granulosus],Echinococcus granulosus
+MER0194681,VDK40014.1,92.945,632,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157878,VDK33685.1,99.24,546,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157859,VDK33680.1,91.62,1332,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0174823,VDM32844.1,92.994,575,unnamed protein product [Hydatigera taeniaeformis],Hydatigera taeniaeformis
+MER0199707,VDK33892.1,98.396,366,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0193606,VDK32977.1,97.354,1128,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0172326,VDK32224.1,88.66,515,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0097202,VDK39571.1,92.513,707,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0153004,VDK31606.1,94.807,1595,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157624,CDS39654.1,91.421,1420,calpain [Echinococcus multilocularis],Echinococcus multilocularis
+MER0173809,VDK37546.1,96.04,802,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0152991,CDS17259.1,85.366,432,ES1 protein mitochondrial [Echinococcus granulosus],Echinococcus granulosus
+MER0149682,VDK36243.1,97.619,852,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0174539,VDK43128.1,95.007,1133,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156765,VDK40621.1,95.238,699,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157270,VDK32375.1,94.462,1248,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0196464,VDK42033.1,81.316,657,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0196463,VDK42033.1,89.606,511,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156022,VDK20939.1,96.092,856,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156366,VDK38375.1,98.828,523,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0153017,XP_024349893.1,92.15,590,Transmembrane protease serine 2 [Echinococcus granulosus],Echinococcus granulosus
+MER0153015,CDS42740.1,90.95,779,imidazolonepropionase [Echinococcus multilocularis],Echinococcus multilocularis
+MER0152869,VDK21785.1,93.75,670,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0158209,VDK38921.1,97.481,1047,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157044,CDS22665.1,96.296,484,subfamily T1A non peptidase ue [Echinococcus granulosus],Echinococcus granulosus
+MER0154229,VDK37291.1,96.988,651,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0174451,VDK38354.1,97.496,1373,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0155922,VDK38390.1,96.429,383,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157308,VDK37306.1,92.808,551,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0127083,VDK23379.1,92.67,374,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157524,VDK36931.1,94.987,1506,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0194420,CDS22151.1,88.703,446,acyl protein thioesterase 12 [Echinococcus granulosus],Echinococcus granulosus
+MER0153404,VDK40214.1,93.247,1418,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0155025,CDS42931.1,93.235,677,Ndr [Echinococcus multilocularis],Echinococcus multilocularis
+MER0155248,VDK41923.1,98.077,422,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0183300,VDK34198.1,86.207,1377,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0183322,VDK34198.1,95.028,362,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156008,VDK39990.1,88.91,1872,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0174518,VDK20843.1,98.561,568,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0155918,VDK20107.1,90.882,1264,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156010,VDK22283.1,97.746,998,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0182623,VDK24025.1,98.726,981,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0182403,VDK23513.1,97.884,771,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0154969,VDK35885.1,91.457,368,"unnamed protein product, partial [Taenia asiatica]",Taenia asiatica
+MER0145640,CDS16699.1,80.645,452,beta LACTamase domain containing family member [Echinococcus granulosus],Echinococcus granulosus
+MER0158298,CDS19990.1,84.366,600,monoacylglycerol lipase abhd12 [Echinococcus granulosus],Echinococcus granulosus
+MER0158289,VDM16418.1,81.773,338,unnamed protein product [Hydatigera taeniaeformis],Hydatigera taeniaeformis
+MER0131267,VDK36011.1,94.261,1111,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0196996,BAJ83490.1,89.72,211,cathepsin B-like peptidase [Echinococcus multilocularis],Echinococcus multilocularis
+MER0135165,CDS36608.1,65.204,379,leucyl aminopeptidase [Echinococcus multilocularis],Echinococcus multilocularis
+MER0168521,VDK32199.1,98.725,1101,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0182143,CDI98218.1,85.962,1221,calpain 5 [Echinococcus multilocularis],Echinococcus multilocularis
+MER0193472,VDK22740.1,95.675,1512,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0136096,VDK40402.1,87.435,1006,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0172499,CDS40942.1,89.258,949,leucyl aminopeptidase [Echinococcus multilocularis],Echinococcus multilocularis
+MER0153007,VDK31625.1,94.832,1517,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0183447,VDK39102.1,97.912,981,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0152920,CDS19099.1,92.58,564,S formylglutathione hydrolase [Echinococcus granulosus],Echinococcus granulosus
+MER0171159,VDK20596.1,90.728,265,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0155524,VDK34330.1,97.166,493,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0152857,CDS17531.1,86.64,902,Lysosomal Pro X carboxypeptidase [Echinococcus granulosus],Echinococcus granulosus
+MER0157417,VDK36545.1,97.86,1046,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157429,VDK36545.1,97.86,1046,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157935,VDK23326.1,89.515,1340,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0199354,VDK40523.1,98.561,563,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0174359,VDK20860.1,100,440,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0174348,VDK20853.1,95.038,518,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0174982,VDK20733.1,96.476,910,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156538,VDK39013.1,98.696,481,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0193588,VDM35891.1,65.409,192,unnamed protein product [Hydatigera taeniaeformis],Hydatigera taeniaeformis
+MER0158610,VDK40043.1,96.347,1318,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0183127,VDK21707.1,93.466,665,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0199757,VDK31771.1,97.419,627,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0153034,VDK33130.1,95.669,509,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0152785,VDK23846.1,87.124,805,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0159226,VDK33365.1,98.399,2293,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0152960,VDK20955.1,97.692,781,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156490,VDK27321.1,96.053,155,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0168242,CDS23077.1,86.056,451,abhydrolase domain containing protein 11 [Echinococcus granulosus],Echinococcus granulosus
+MER0142824,VDM18659.1,86.325,404,unnamed protein product [Hydatigera taeniaeformis],Hydatigera taeniaeformis
+MER0197007,VDK42001.1,95.529,1693,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0160031,VDK23510.1,85.246,1288,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0153033,VDK35035.1,98.795,674,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0162388,VDK34882.1,88.355,958,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0193835,CDS41796.1,92.672,457,Ndr [Echinococcus multilocularis],Echinococcus multilocularis
+MER0181740,VDK35482.1,98.969,401,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0155469,VDK36836.1,95.265,1423,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0155505,VDK36836.1,95.265,1423,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0155451,VDK32522.1,94.942,1487,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156242,VDK35806.1,99.574,484,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0200071,XP_024345578.1,81.5,696,Lysosomal acid lipase/cholesteryl ester hydrolase [Echinococcus granulosus],Echinococcus granulosus
+MER0153013,VDK34451.1,98.857,728,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0145782,VDK48376.1,98.253,467,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0114869,VDK44420.1,95.306,951,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0108320,VDK34551.1,78.788,1165,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0183467,VDK39102.1,93.439,3703,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156011,VDK36813.1,96.409,1102,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0174394,VDK38851.1,96.019,849,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0155930,VDK38386.1,99.235,1080,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0149501,VDK35764.1,96.338,710,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0158073,XP_024354928.1,86.327,640,Threonine aspartase [Echinococcus granulosus],Echinococcus granulosus
+MER0152953,VDK38159.1,95.503,916,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0182971,XP_024349197.1,75,1035,Cytosolic carboxypeptidase 2 [Echinococcus granulosus],Echinococcus granulosus
+MER0161400,VDK39405.1,95.243,2017,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0194264,CDS36983.1,71.206,729,RNA directed DNA polymerase reverse transcriptase [Echinococcus multilocularis],Echinococcus multilocularis
+MER0131468,VDK41201.1,97.754,1363,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157946,VDK39890.1,95.327,602,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156939,VDK40621.1,95.596,738,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0155898,VDK23484.1,59.091,284,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0199779,CDS24815.1,92.635,1620,lon protease mitochondrial [Echinococcus granulosus],Echinococcus granulosus
+MER0152790,VDK37282.1,95.635,1922,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0153036,VDK33060.1,95.951,994,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0161522,VDK38976.1,71.429,447,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0135207,CDS18713.1,79.934,513,cathepsin L cysteine proteinase [Echinococcus granulosus],Echinococcus granulosus
+MER0149104,VDK39480.1,90.909,125,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0166332,CDS15260.1,87.265,873,insulin degrading enzyme [Echinococcus granulosus],Echinococcus granulosus
+MER0199361,VDK37683.1,92.487,1111,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0159106,VDK36764.1,81.113,901,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0182213,VDK38235.1,68.142,1334,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0154962,XP_024349038.1,56.798,486,Transposon Ty3-I Gag-Pol polyprotein [Echinococcus granulosus],Echinococcus granulosus
+MER0148718,XP_013248714.1,97.949,390,"hypothetical protein, conserved [Eimeria acervulina]",Eimeria acervulina
+MER0183373,VDK34196.1,96.135,414,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0148706,VDK25684.1,96,191,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0155450,VDK44633.1,95.334,2537,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0147510,VDK38976.1,72.656,358,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0135175,XP_024346898.1,76.471,82,Putative aminopeptidase W07G4.4 [Echinococcus granulosus],Echinococcus granulosus
+MER0135149,VDK20282.1,95.501,964,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0196969,VDM15812.1,82.333,994,unnamed protein product [Hydatigera taeniaeformis],Hydatigera taeniaeformis
+MER0196947,XP_024350264.1,91.071,414,Putative ATP-dependent Clp protease proteolytic subunit [Echinococcus granulosus],Echinococcus granulosus
+MER0144985,VDK24535.1,76.136,256,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0135111,VDK32651.1,94.427,630,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0142210,VDM18659.1,80.162,399,unnamed protein product [Hydatigera taeniaeformis],Hydatigera taeniaeformis
+MER0149486,VDK47899.1,87.952,150,"unnamed protein product, partial [Taenia asiatica]",Taenia asiatica
+MER0174553,CDS35507.1,92.476,1616,dipeptidyl aminopeptidaseprotein [Echinococcus multilocularis],Echinococcus multilocularis
+MER0167726,VDK34372.1,97.674,1323,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0145652,VDK46960.1,93.651,478,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156361,VDK35833.1,97.976,1005,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0174531,VDK34278.1,98.165,680,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0197004,VDK38341.1,93.267,968,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157960,CDS20995.1,84.932,480,CAAX prenyl protease 2 [Echinococcus granulosus],Echinococcus granulosus
+MER0161058,VDK39171.1,95.031,626,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0152956,VDK37800.1,96.748,251,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0155642,VDK35421.1,96.059,405,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0183069,VDN98146.1,100,371,unnamed protein product [Rodentolepis nana],Rodentolepis nana
+MER0166332,CDS15260.1,87.265,873,insulin degrading enzyme [Echinococcus granulosus],Echinococcus granulosus
+MER0199361,VDK37683.1,92.487,1111,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0159106,VDK36764.1,81.113,901,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0182213,VDK38235.1,68.142,1334,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0154962,XP_024349038.1,56.798,486,Transposon Ty3-I Gag-Pol polyprotein [Echinococcus granulosus],Echinococcus granulosus
+MER0148718,XP_013248714.1,97.949,390,"hypothetical protein, conserved [Eimeria acervulina]",Eimeria acervulina
+MER0183373,VDK34196.1,96.135,414,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0148706,VDK25684.1,96,191,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0155450,VDK44633.1,95.334,2537,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0147510,VDK38976.1,72.656,358,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0135175,XP_024346898.1,76.471,82,Putative aminopeptidase W07G4.4 [Echinococcus granulosus],Echinococcus granulosus
+MER0135149,VDK20282.1,95.501,964,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0196969,VDM15812.1,82.333,994,unnamed protein product [Hydatigera taeniaeformis],Hydatigera taeniaeformis
+MER0196947,XP_024350264.1,91.071,414,Putative ATP-dependent Clp protease proteolytic subunit [Echinococcus granulosus],Echinococcus granulosus
+MER0144985,VDK24535.1,76.136,256,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0135111,VDK32651.1,94.427,630,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0142210,VDM18659.1,80.162,399,unnamed protein product [Hydatigera taeniaeformis],Hydatigera taeniaeformis
+MER0149486,VDK47899.1,87.952,150,"unnamed protein product, partial [Taenia asiatica]",Taenia asiatica
+MER0174553,CDS35507.1,92.476,1616,dipeptidyl aminopeptidaseprotein [Echinococcus multilocularis],Echinococcus multilocularis
+MER0167726,VDK34372.1,97.674,1323,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0145652,VDK46960.1,93.651,478,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0156361,VDK35833.1,97.976,1005,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0174531,VDK34278.1,98.165,680,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0197004,VDK38341.1,93.267,968,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0157960,CDS20995.1,84.932,480,CAAX prenyl protease 2 [Echinococcus granulosus],Echinococcus granulosus
+MER0161058,VDK39171.1,95.031,626,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0152956,VDK37800.1,96.748,251,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0155642,VDK35421.1,96.059,405,unnamed protein product [Taenia asiatica],Taenia asiatica
+MER0183069,VDN98146.1,100,371,unnamed protein product [Rodentolepis nana],Rodentolepis nana
+MER0183077,VDN98146.1,100,371,unnamed protein product [Rodentolepis nana],Rodentolepis nana
+MER0156224,VDK22955.1,93.204,201,unnamed protein product [Taenia asiatica],Taenia asiatica
